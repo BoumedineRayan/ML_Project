@@ -43,7 +43,7 @@ df['AbilityScore'] = (df['Overall'] + df['Potential']) / 2
 df['CostScore'] = (df['Value'] + df['Wage']) / 2
 
 # Build the study dataset (only for clustering)
-study_df = df[['Name', 'AbilityScore', 'CostScore']]
+study_df = df[['Name', 'AbilityScore', 'CostScore']].copy()
 
 
 # ----------------------------------------------------
@@ -75,7 +75,7 @@ plt.show()
 # Step 6: Apply KMeans (choose K=4 after elbow analysis)
 # ----------------------------------------------------
 kmeans = KMeans(n_clusters=4, random_state=42, n_init='auto')
-study_df['Cluster'] = kmeans.fit_predict(scaled_data)
+study_df.loc[:, 'Cluster'] = kmeans.fit_predict(scaled_data)
 
 
 # ----------------------------------------------------
@@ -90,7 +90,7 @@ color_map = {
     3: matplotlib_colors[3]
 }
 
-study_df["ClusterColor"] = study_df["Cluster"].map(color_map)
+study_df.loc[:, "ClusterColor"] = study_df["Cluster"].map(color_map)
 
 
 # ----------------------------------------------------
@@ -145,8 +145,8 @@ print(hidden_gems.head(20))
 # ----------------------------------------------------
 
 # Merge cluster numbers back to the original df
-df["Cluster"] = study_df["Cluster"].values
-df["ClusterColor"] = study_df["ClusterColor"].values
+df.loc[:, "Cluster"] = study_df["Cluster"].values
+df.loc[:, "ClusterColor"] = study_df["ClusterColor"].values
 
 # Export full dataset + cluster number
 df.to_csv("fifa_full_with_clusters.csv", index=False)
