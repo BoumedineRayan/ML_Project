@@ -185,7 +185,6 @@ print(hidden_gems.head(20))
 
 # Merge cluster numbers back to the original df
 df.loc[:, "Cluster"] = study_df["Cluster"].values
-df.loc[:, "ClusterColor"] = study_df["ClusterColor"].values
 
 # Export full dataset + cluster number
 df.to_csv("fifa_full_with_clusters.csv", index=False)
