@@ -39,10 +39,38 @@ ability but zero cost, making him the ultimate hidden gem -
 a quality player available without any obligations .
 
 
-Conclusion : 
+Conclusion :
 Our clustering model successfully identified distinct player groups based on their ability and cost characteristics.
 
-The hidden gems identified in Cluster 3 represent opportunities for smart recruitment, 
-where clubs can acquire quality players at a fraction of the cost of elite players in Cluster 1. 
-This data-driven approach to player recruitment aligns with modern football analytics practices used 
+The hidden gems identified in Cluster 3 represent opportunities for smart recruitment,
+where clubs can acquire quality players at a fraction of the cost of elite players in Cluster 1.
+This data-driven approach to player recruitment aligns with modern football analytics practices used
 by many successful clubs worldwide.
+
+
+How We Built It:
+
+Creating the Scores:
+We made two simple scores to compare players:
+- AbilityScore: We took the average of Overall and Potential stats. This shows how good a player is now and could be later.
+- CostScore: We took the average of Value and Wage. This is basically how much a player costs overall.
+
+These scores let us see who gives you the best bang for your buck.
+
+Why K-Means with 4 Clusters:
+We picked K-Means because it works well with number data. We tested different numbers of clusters
+using the Elbow Method and found that 4 clusters made the most sense. Before running the algorithm,
+we scaled the data so that huge cost numbers (like millions) wouldn't mess up the smaller ability
+numbers (which go from 0-100).
+
+Finding Hidden Gems:
+We set some rules to find hidden gems:
+- AbilityScore has to be in the top 40% (decent players)
+- CostScore has to be in the bottom 60% (cheap)
+
+This gave us 20+ good players who don't cost much. A lot of them are actually free agents that
+most people aren't looking at.
+
+Why This Matters:
+Clubs can use this to find cheap talent they might miss otherwise. It's especially useful for
+smaller clubs that can't afford superstars but still want to compete.
