@@ -1,0 +1,48 @@
+                    FIFA Player Clustering Project: Explanation and Results Interpretation
+                                  
+                                  
+                                         Project Overview
+We developed a machine learning model to cluster FIFA players based on their ability and cost, with the goal of identifying 
+"hidden gems" - players who offer high value at a low cost. This project follows the unsupervised learning approach outlined 
+in the ML project requirements.
+
+
+Cluster Analysis
+
+Cluster 0 (Red): Low Ability, Low Cost
+Cluster 1 (Blue): High Ability, High 
+Cluster 2 (Green): Average Ability, Average Cost
+Cluster 3 (Yellow): High Ability, Low Cost
+
+The three profile and the Analysis
+
+Zidane : 
+AbilityScore: 70.0
+CostScore: €163,000
+Cluster: 3
+Analysis : Zidane was created to be a hidden 
+gem with decent ability but very low cost, making him an attractive target for clubs looking for value.
+
+Kimmich : 
+AbilityScore: 89.5
+CostScore: €45,110,000
+Cluster: 1
+Analysis : Kimmich represents the elite category with world-class 
+ability but very high cost, making him unattainable for most clubs.
+
+Cherki :
+AbilityScore: 81.0
+CostScore: €0
+Cluster: 3
+Analysis : Cherki is a free agent with high 
+ability but zero cost, making him the ultimate hidden gem - 
+a quality player available without any obligations .
+
+
+Conclusion : 
+Our clustering model successfully identified distinct player groups based on their ability and cost characteristics.
+
+The hidden gems identified in Cluster 3 represent opportunities for smart recruitment, 
+where clubs can acquire quality players at a fraction of the cost of elite players in Cluster 1. 
+This data-driven approach to player recruitment aligns with modern football analytics practices used 
+by many successful clubs worldwide.

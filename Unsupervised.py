@@ -118,7 +118,7 @@ study_df.loc[:, 'Cluster'] = kmeans.fit_predict(scaled_data)
 
 
 # -------------------------------------------------------------------
-#    Step 7 (fixed): Assign REAL Matplotlib colors to clusters
+#    Step 7 : Assign REAL Matplotlib colors to clusters
 # -------------------------------------------------------------------
 matplotlib_colors = ['red', 'blue', 'green', 'yellow']
 
@@ -191,3 +191,5 @@ df.to_csv("fifa_full_with_clusters.csv", index=False)
 
 # Export hidden gems file
 hidden_gems.to_csv("hidden_gems_clean.csv", index=False)
+
+

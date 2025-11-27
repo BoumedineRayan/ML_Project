@@ -2,213 +2,215 @@ Name,AbilityScore,CostScore,Cluster,ClusterColor
  Oscar,84.5,0.0,1,blue
  A. Witsel,82.0,0.0,1,blue
  Paulinho,81.0,0.0,1,blue
- D. Drogba,81.0,0.0,1,blue
  M. Almirón,81.0,0.0,1,blue
+R. Cherki,81.0,0.0,1,blue
+ D. Drogba,81.0,0.0,1,blue
  Renato Augusto,80.0,0.0,1,blue
  Gil,80.0,0.0,1,blue
  J. Martínez,79.5,0.0,1,blue
- B. Yılmaz,79.0,0.0,1,blue
  J. Valdivia,79.0,0.0,1,blue
+ B. Yılmaz,79.0,0.0,1,blue
  Hilton,79.0,15000.0,1,blue
  Gervinho,79.0,0.0,1,blue
  D. González,78.5,0.0,1,blue
  T. Koubek,78.0,0.0,1,blue
  J. Van Damme,77.0,0.0,1,blue
  B. Dočkal,77.0,0.0,1,blue
- J. Zmrhal,76.5,0.0,1,blue
  P. Mantalos,76.5,0.0,1,blue
- A. Barák,76.0,0.0,1,blue
+ J. Zmrhal,76.5,0.0,1,blue
  E. Lavezzi,76.0,0.0,1,blue
- C. Riveros,76.0,0.0,1,blue
- M. Martins,76.0,0.0,1,blue
  G. McAuley,76.0,15000.0,1,blue
+ C. Riveros,76.0,0.0,1,blue
+ A. Barák,76.0,0.0,1,blue
+ M. Martins,76.0,0.0,1,blue
  D. Dainelli,76.0,7500.0,1,blue
  R. Coetzee,75.5,0.0,1,blue
- S. Deli,75.5,0.0,1,blue
  J. Pavlenka,75.5,0.0,1,blue
  D. Alibec,75.5,0.0,1,blue
+ S. Deli,75.5,0.0,1,blue
  R. Benzar,75.5,0.0,1,blue
+ C. Budescu,75.0,0.0,1,blue
  A. Ivan,75.0,0.0,1,blue
  G. Karadeniz,75.0,177500.0,1,blue
- C. Budescu,75.0,0.0,1,blue
+ M. Škoda,75.0,0.0,1,blue
+ F. Brienza,75.0,215000.0,1,blue
  V. Cáceres,75.0,0.0,1,blue
  Z. Gera,75.0,0.0,1,blue
  C. Rodríguez,75.0,0.0,1,blue
- M. Škoda,75.0,0.0,1,blue
- F. Brienza,75.0,215000.0,1,blue
  T. Hlatshwayo,75.0,0.0,1,blue
  A. El-Shenawy,74.5,0.0,1,blue
  M. Krmenčík,74.5,0.0,1,blue
- D. Klate,74.0,0.0,1,blue
- V. Stoyanov,74.0,0.0,1,blue
- P. Da Silva,74.0,7500.0,1,blue
- S. Pellissier,74.0,220000.0,1,blue
- D. Díaz,74.0,4000.0,1,blue
- J. Fucile,74.0,0.0,1,blue
- W. Erviti,74.0,207500.0,1,blue
- A. González,74.0,0.0,1,blue
- L. Sânmărtean,74.0,145000.0,1,blue
- C. Keşerü,74.0,0.0,1,blue
- E. El-Hadary,74.0,0.0,1,blue
- S. Vilakazi,73.5,0.0,1,blue
- A. Bakasetas,73.5,0.0,1,blue
- T. Hořava,73.0,0.0,1,blue
- F. Díaz,73.0,0.0,1,blue
- J. Šural,73.0,0.0,1,blue
- N. Johansson,73.0,4000.0,1,blue
- M. Masango,73.0,0.0,1,blue
- J. Ayoví,73.0,0.0,1,blue
- M. Oyola,73.0,0.0,1,blue
- A. Rodríguez,73.0,0.0,1,blue
- T. Simons,73.0,7500.0,1,blue
- D. Dibusz,73.0,0.0,1,blue
- B. Guzan,73.0,0.0,1,blue
- D. Barreto,73.0,0.0,1,blue
- D. Verón,73.0,7500.0,1,blue
- R. Márquez,73.0,7500.0,1,blue
- S. Mauri,73.0,164500.0,1,blue
- C. Săpunaru,73.0,0.0,1,blue
- J. Mercier,73.0,7500.0,1,blue
- C. Carmona,73.0,0.0,1,blue
- F. Balmont,73.0,127500.0,1,blue
- B. Nivet,73.0,154000.0,1,blue
- D. Pizarro,73.0,125000.0,1,blue
- S. Maloney,73.0,0.0,1,blue
- H. Kekana,73.0,0.0,1,blue
- A. Fiola,72.5,0.0,1,blue
- G. Gianniotas,72.5,0.0,1,blue
- T. Kádár,72.5,0.0,1,blue
- M. Siopis,72.5,0.0,1,blue
- S. Hanca,72.5,0.0,1,blue
- M. Ngadeu-Ngadjui,72.5,0.0,1,blue
- Y. Endo,72.0,3500.0,1,blue
- Bruno Saltor,72.0,172500.0,1,blue
- M. Mahlangu,72.0,0.0,1,blue
- B. Pedretti,72.0,179500.0,1,blue
- C. Setola,72.0,237750.0,1,blue
- L. Desábato,72.0,4500.0,1,blue
- David Navarro,72.0,3000.0,1,blue
- D. Grigore,72.0,0.0,1,blue
- D. Colotto,72.0,178000.0,1,blue
- H. Campagnaro,72.0,5000.0,1,blue
- Pelegrín,72.0,2500.0,1,blue
- M. Candelo,72.0,111000.0,1,blue
- I. Alonso,72.0,130000.0,1,blue
- R. Kruse,72.0,0.0,1,blue
- D. Montenegro,72.0,114000.0,1,blue
- O. Deschacht,72.0,180000.0,1,blue
- A. Silva,72.0,0.0,1,blue
- Duda,72.0,130000.0,1,blue
- T. Cahill,72.0,127500.0,1,blue
- M. Milligan,72.0,0.0,1,blue
- Paolo Fernandes,71.5,242500.0,1,blue
- T. Přikryl,71.5,0.0,1,blue
- Vinícius,71.5,0.0,1,blue
- P. Mareš,71.5,0.0,1,blue
- M. Pineida,71.5,0.0,1,blue
- M. Edwards,71.5,203500.0,1,blue
- A. Cole,71.0,127500.0,1,blue
- W. Ayoví,71.0,10000.0,1,blue
- D. Álvarez,71.0,70000.0,1,blue
- C. Salcido,71.0,7500.0,1,blue
- D. De fauw,71.0,242500.0,1,blue
- A. Elek,71.0,0.0,1,blue
- I. Olić,71.0,117500.0,1,blue
- R. Braña,71.0,4500.0,1,blue
- G. Maniatis,71.0,0.0,1,blue
- E. Conde,71.0,0.0,1,blue
- M. Banguera,71.0,0.0,1,blue
- C. Früchtl,71.0,125500.0,1,blue
- D. Sterling,71.0,177000.0,1,blue
- F. Antonucci,71.0,215000.0,1,blue
- D. Bertaud,71.0,251000.0,1,blue
- S. Bertoli,71.0,139500.0,1,blue
- R. Williams,71.0,0.0,1,blue
- G. Maroni,71.0,214000.0,1,blue
- C. Hill,71.0,10000.0,1,blue
- S. Hangya,71.0,0.0,1,blue
- O. Pérez,71.0,142500.0,1,blue
- C. Moţi,71.0,0.0,1,blue
- D. Buffonge,71.0,217500.0,1,blue
- R. Bezjak,71.0,0.0,1,blue
- Lee Dong Gook,71.0,104000.0,1,blue
- M. Pintilii,71.0,0.0,1,blue
- D. Beasley,71.0,240500.0,1,blue
- L. Licht,71.0,129000.0,1,blue
- S. Nakamura,71.0,87000.0,1,blue
- Ricardo Costa,71.0,140500.0,1,blue
- N. Janvier,71.0,215000.0,1,blue
- J. Morales,71.0,97500.0,1,blue
- J. Campos,71.0,0.0,1,blue
- T. Phala,71.0,0.0,1,blue
- K. Miller,71.0,125000.0,1,blue
- D. James,70.5,203000.0,1,blue
- C. Humphreys-Grant,70.5,242000.0,1,blue
- E. Youan,70.5,164000.0,1,blue
- Han Kwang Song,70.5,228000.0,1,blue
- J. Johansson,70.5,0.0,1,blue
- G. Garza,70.5,0.0,1,blue
- T. Nedelev,70.5,0.0,1,blue
- S. Saad,70.5,0.0,1,blue
- O. Gutsulyak,70.5,227000.0,1,blue
- E. Konsa,70.5,201000.0,1,blue
- Mora,70.0,3000.0,1,blue
- R. Murawski,70.0,203500.0,1,blue
- Juan Rodriguez,70.0,204000.0,1,blue
- Z. Milanov,70.0,0.0,1,blue
- B. Georgiev,70.0,210000.0,1,blue
- P. Quiñonez,70.0,0.0,1,blue
- J. Rodríguez,70.0,3000.0,1,blue
- R. Rojas,70.0,0.0,1,blue
- H. Abdul Ghani,70.0,7500.0,1,blue
- M. Feulner,70.0,195000.0,1,blue
- P. Escobar,70.0,0.0,1,blue
- R. Raţ,70.0,103000.0,1,blue
- J. Thomsen,70.0,192500.0,1,blue
- M. Ogasawara,70.0,3500.0,1,blue
- Nino,70.0,93500.0,1,blue
- R. Cardozo,70.0,0.0,1,blue
- Borja Fernández,70.0,118000.0,1,blue
- R. Arboleda,70.0,0.0,1,blue
- M. Novakovič,70.0,0.0,1,blue
- M. Molina,70.0,81500.0,1,blue
- T. Priskin,70.0,0.0,1,blue
- Moreno,70.0,204000.0,1,blue
- O. Vílchez,70.0,0.0,1,blue
- R. Revoredo,70.0,0.0,1,blue
- C. Araujo,70.0,192500.0,1,blue
- F. Oreja,70.0,192500.0,1,blue
- Y. Hadji,70.0,95000.0,1,blue
- F. Signorino,70.0,195000.0,1,blue
- M. Wasilewski,70.0,15000.0,1,blue
- M. Korhut,70.0,0.0,1,blue
- C. Varrault,70.0,4500.0,1,blue
- J. Fuchs,70.0,250500.0,1,blue
- F. Mancinelli,70.0,205000.0,1,blue
- A. Hughes,70.0,2500.0,1,blue
- L. Germoni,70.0,237750.0,1,blue
- Y. Maziz,70.0,176000.0,1,blue
- F. Rodríguez,70.0,215000.0,1,blue
- B. Tekpetey,70.0,214500.0,1,blue
- H. Wilson,70.0,242500.0,1,blue
- D. Peralta,70.0,238000.0,1,blue
- M. Eppel,70.0,0.0,1,blue
- F. Castellano,70.0,213000.0,1,blue
- R. Pierre-Gabriel,70.0,239000.0,1,blue
- D. Rozehnal,70.0,120000.0,1,blue
- B. Lobonţ,70.0,125000.0,1,blue
- Cifuentes,70.0,202000.0,1,blue
- C. Cuesta,70.0,150250.0,1,blue
- M. Folivi,70.0,226000.0,1,blue
- D. Aimar,70.0,0.0,1,blue
- L. Lemoine,70.0,201500.0,1,blue
- I. Morales,70.0,163000.0,1,blue
- E. Cümart,70.0,163000.0,1,blue
- C. Willock,70.0,178500.0,1,blue
- J. Clarke-Salter,70.0,201000.0,1,blue
- M. González,70.0,119000.0,1,blue
- E. Ruiz,70.0,250250.0,1,blue
- A. Şahin,70.0,120000.0,1,blue
- F. Müller,70.0,201000.0,1,blue
- E. Dreer,70.0,0.0,1,blue
- A. Confente,70.0,163000.0,1,blue
+ D. Klate,74.0,0.0,3,yellow
+ D. Díaz,74.0,4000.0,3,yellow
+ V. Stoyanov,74.0,0.0,3,yellow
+ P. Da Silva,74.0,7500.0,3,yellow
+ S. Pellissier,74.0,220000.0,3,yellow
+ L. Sânmărtean,74.0,145000.0,3,yellow
+ J. Fucile,74.0,0.0,3,yellow
+ W. Erviti,74.0,207500.0,3,yellow
+ C. Keşerü,74.0,0.0,3,yellow
+ A. González,74.0,0.0,3,yellow
+ E. El-Hadary,74.0,0.0,3,yellow
+ A. Bakasetas,73.5,0.0,3,yellow
+ S. Vilakazi,73.5,0.0,3,yellow
+ S. Mauri,73.0,164500.0,3,yellow
+ T. Hořava,73.0,0.0,3,yellow
+ F. Díaz,73.0,0.0,3,yellow
+ J. Šural,73.0,0.0,3,yellow
+ N. Johansson,73.0,4000.0,3,yellow
+ M. Masango,73.0,0.0,3,yellow
+ J. Ayoví,73.0,0.0,3,yellow
+ M. Oyola,73.0,0.0,3,yellow
+ A. Rodríguez,73.0,0.0,3,yellow
+ T. Simons,73.0,7500.0,3,yellow
+ D. Dibusz,73.0,0.0,3,yellow
+ B. Guzan,73.0,0.0,3,yellow
+ D. Barreto,73.0,0.0,3,yellow
+ D. Verón,73.0,7500.0,3,yellow
+ R. Márquez,73.0,7500.0,3,yellow
+ H. Kekana,73.0,0.0,3,yellow
+ C. Săpunaru,73.0,0.0,3,yellow
+ C. Carmona,73.0,0.0,3,yellow
+ S. Maloney,73.0,0.0,3,yellow
+ J. Mercier,73.0,7500.0,3,yellow
+ B. Nivet,73.0,154000.0,3,yellow
+ D. Pizarro,73.0,125000.0,3,yellow
+ F. Balmont,73.0,127500.0,3,yellow
+ A. Fiola,72.5,0.0,3,yellow
+ T. Kádár,72.5,0.0,3,yellow
+ G. Gianniotas,72.5,0.0,3,yellow
+ M. Siopis,72.5,0.0,3,yellow
+ S. Hanca,72.5,0.0,3,yellow
+ M. Ngadeu-Ngadjui,72.5,0.0,3,yellow
+ T. Cahill,72.0,127500.0,3,yellow
+ Y. Endo,72.0,3500.0,3,yellow
+ M. Mahlangu,72.0,0.0,3,yellow
+ Bruno Saltor,72.0,172500.0,3,yellow
+ B. Pedretti,72.0,179500.0,3,yellow
+ C. Setola,72.0,237750.0,3,yellow
+ L. Desábato,72.0,4500.0,3,yellow
+ David Navarro,72.0,3000.0,3,yellow
+ D. Grigore,72.0,0.0,3,yellow
+ D. Colotto,72.0,178000.0,3,yellow
+ H. Campagnaro,72.0,5000.0,3,yellow
+ Pelegrín,72.0,2500.0,3,yellow
+ M. Candelo,72.0,111000.0,3,yellow
+ I. Alonso,72.0,130000.0,3,yellow
+ R. Kruse,72.0,0.0,3,yellow
+ D. Montenegro,72.0,114000.0,3,yellow
+ O. Deschacht,72.0,180000.0,3,yellow
+ A. Silva,72.0,0.0,3,yellow
+ Duda,72.0,130000.0,3,yellow
+ M. Milligan,72.0,0.0,3,yellow
+ Paolo Fernandes,71.5,242500.0,3,yellow
+ M. Pineida,71.5,0.0,3,yellow
+ T. Přikryl,71.5,0.0,3,yellow
+ Vinícius,71.5,0.0,3,yellow
+ M. Edwards,71.5,203500.0,3,yellow
+ P. Mareš,71.5,0.0,3,yellow
+ M. Pintilii,71.0,0.0,3,yellow
+ A. Cole,71.0,127500.0,3,yellow
+ A. Elek,71.0,0.0,3,yellow
+ D. Álvarez,71.0,70000.0,3,yellow
+ C. Salcido,71.0,7500.0,3,yellow
+ W. Ayoví,71.0,10000.0,3,yellow
+ D. De fauw,71.0,242500.0,3,yellow
+ I. Olić,71.0,117500.0,3,yellow
+ R. Braña,71.0,4500.0,3,yellow
+ G. Maniatis,71.0,0.0,3,yellow
+ E. Conde,71.0,0.0,3,yellow
+ M. Banguera,71.0,0.0,3,yellow
+ C. Früchtl,71.0,125500.0,3,yellow
+ D. Sterling,71.0,177000.0,3,yellow
+ F. Antonucci,71.0,215000.0,3,yellow
+ D. Bertaud,71.0,251000.0,3,yellow
+ S. Bertoli,71.0,139500.0,3,yellow
+ R. Williams,71.0,0.0,3,yellow
+ G. Maroni,71.0,214000.0,3,yellow
+ C. Hill,71.0,10000.0,3,yellow
+ S. Hangya,71.0,0.0,3,yellow
+ O. Pérez,71.0,142500.0,3,yellow
+ C. Moţi,71.0,0.0,3,yellow
+ D. Buffonge,71.0,217500.0,3,yellow
+ R. Bezjak,71.0,0.0,3,yellow
+ Lee Dong Gook,71.0,104000.0,3,yellow
+ T. Phala,71.0,0.0,3,yellow
+ D. Beasley,71.0,240500.0,3,yellow
+ L. Licht,71.0,129000.0,3,yellow
+ S. Nakamura,71.0,87000.0,3,yellow
+ Ricardo Costa,71.0,140500.0,3,yellow
+ N. Janvier,71.0,215000.0,3,yellow
+ J. Morales,71.0,97500.0,3,yellow
+ J. Campos,71.0,0.0,3,yellow
+ K. Miller,71.0,125000.0,3,yellow
+ J. Johansson,70.5,0.0,3,yellow
+ D. James,70.5,203000.0,3,yellow
+ C. Humphreys-Grant,70.5,242000.0,3,yellow
+ E. Youan,70.5,164000.0,3,yellow
+ Han Kwang Song,70.5,228000.0,3,yellow
+ O. Gutsulyak,70.5,227000.0,3,yellow
+ G. Garza,70.5,0.0,3,yellow
+ T. Nedelev,70.5,0.0,3,yellow
+ S. Saad,70.5,0.0,3,yellow
+ E. Konsa,70.5,201000.0,3,yellow
+ Juan Rodriguez,70.0,204000.0,3,yellow
+ Mora,70.0,3000.0,3,yellow
+ R. Murawski,70.0,203500.0,3,yellow
+ P. Escobar,70.0,0.0,3,yellow
+ Z. Milanov,70.0,0.0,3,yellow
+ B. Georgiev,70.0,210000.0,3,yellow
+ P. Quiñonez,70.0,0.0,3,yellow
+ J. Rodríguez,70.0,3000.0,3,yellow
+ R. Rojas,70.0,0.0,3,yellow
+Z. Zidane,70.0,163000.0,3,yellow
+ M. Feulner,70.0,195000.0,3,yellow
+ H. Abdul Ghani,70.0,7500.0,3,yellow
+ R. Raţ,70.0,103000.0,3,yellow
+ J. Thomsen,70.0,192500.0,3,yellow
+ M. Ogasawara,70.0,3500.0,3,yellow
+ Nino,70.0,93500.0,3,yellow
+ R. Cardozo,70.0,0.0,3,yellow
+ Borja Fernández,70.0,118000.0,3,yellow
+ R. Arboleda,70.0,0.0,3,yellow
+ M. Novakovič,70.0,0.0,3,yellow
+ M. Molina,70.0,81500.0,3,yellow
+ T. Priskin,70.0,0.0,3,yellow
+ Moreno,70.0,204000.0,3,yellow
+ O. Vílchez,70.0,0.0,3,yellow
+ R. Revoredo,70.0,0.0,3,yellow
+ C. Araujo,70.0,192500.0,3,yellow
+ F. Oreja,70.0,192500.0,3,yellow
+ Y. Hadji,70.0,95000.0,3,yellow
+ F. Signorino,70.0,195000.0,3,yellow
+ M. Wasilewski,70.0,15000.0,3,yellow
+ M. Korhut,70.0,0.0,3,yellow
+ C. Varrault,70.0,4500.0,3,yellow
+ J. Fuchs,70.0,250500.0,3,yellow
+ F. Mancinelli,70.0,205000.0,3,yellow
+ A. Hughes,70.0,2500.0,3,yellow
+ L. Germoni,70.0,237750.0,3,yellow
+ Y. Maziz,70.0,176000.0,3,yellow
+ F. Rodríguez,70.0,215000.0,3,yellow
+ B. Tekpetey,70.0,214500.0,3,yellow
+ H. Wilson,70.0,242500.0,3,yellow
+ D. Peralta,70.0,238000.0,3,yellow
+ M. Eppel,70.0,0.0,3,yellow
+ F. Castellano,70.0,213000.0,3,yellow
+ R. Pierre-Gabriel,70.0,239000.0,3,yellow
+ D. Rozehnal,70.0,120000.0,3,yellow
+ B. Lobonţ,70.0,125000.0,3,yellow
+ Cifuentes,70.0,202000.0,3,yellow
+ C. Cuesta,70.0,150250.0,3,yellow
+ M. Folivi,70.0,226000.0,3,yellow
+ D. Aimar,70.0,0.0,3,yellow
+ L. Lemoine,70.0,201500.0,3,yellow
+ I. Morales,70.0,163000.0,3,yellow
+ E. Cümart,70.0,163000.0,3,yellow
+ C. Willock,70.0,178500.0,3,yellow
+ J. Clarke-Salter,70.0,201000.0,3,yellow
+ M. González,70.0,119000.0,3,yellow
+ E. Ruiz,70.0,250250.0,3,yellow
+ A. Şahin,70.0,120000.0,3,yellow
+ F. Müller,70.0,201000.0,3,yellow
+ E. Dreer,70.0,0.0,3,yellow
+ A. Confente,70.0,163000.0,3,yellow
