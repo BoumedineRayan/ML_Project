@@ -113,6 +113,8 @@ plt.show()
 # -------------------------------------------------------------
 #   Step 6: Apply KMeans (choose K=4 after elbow analysis)
 # -------------------------------------------------------------
+
+
 kmeans = KMeans(n_clusters=4, random_state=42, n_init='auto')
 study_df.loc[:, 'Cluster'] = kmeans.fit_predict(scaled_data)
 
@@ -133,10 +135,12 @@ study_df.loc[:, "ClusterColor"] = study_df["Cluster"].map(color_map)
 
 
 # ----------------------------------------------------
-#       Step 8 (fixed): Visualize clusters 
+#       Step 8 (fixed): Visualize clusters and now visualize specific players
 # ----------------------------------------------------
+
 plt.figure(figsize=(10, 6))
 
+# Plot all clusters first
 for cluster in sorted(study_df['Cluster'].unique()):
     cluster_data = study_df[study_df['Cluster'] == cluster]
 
@@ -148,11 +152,42 @@ for cluster in sorted(study_df['Cluster'].unique()):
         label=f"Cluster {cluster} - {color_map[cluster].capitalize()}"
     )
 
-plt.title("Player Clusters Based on Ability vs Cost")
+# ----------------------------------------------------
+# Highlight specific players
+# ----------------------------------------------------
+special_players = ["R. Cherki", "Z. Zidane", "J. Kimmich"]
+
+for player in special_players:
+    if player in study_df['Name'].values:
+        p = study_df[study_df['Name'] == player].iloc[0]
+
+        plt.scatter(
+            p['AbilityScore'],
+            p['CostScore'],
+            color="black",     
+            s=200,             
+            marker="*",        
+            edgecolors="white",
+            linewidth=1.5
+        )
+
+        plt.text(
+            p['AbilityScore'] + 0.02,
+            p['CostScore'] + 0.02,
+            player,
+            fontsize=10,
+            fontweight='bold'
+        )
+
+plt.title("Player Clusters Based on Ability vs Cost (Highlighted Players)")
 plt.xlabel("AbilityScore")
 plt.ylabel("CostScore")
 plt.legend()
 plt.show()
+
+
+
+
 
 
 # ------------------------------------------------------
@@ -165,6 +200,8 @@ print(study_df.groupby('Cluster')[['AbilityScore', 'CostScore']].mean())
 # --------------------------------------------------------------
 #   Step 10: Identify Hidden Gems (High ability + Low cost)
 # --------------------------------------------------------------
+
+
 ability_threshold = study_df['AbilityScore'].quantile(0.60)
 cost_threshold = study_df['CostScore'].quantile(0.40)
 
@@ -191,5 +228,8 @@ df.to_csv("fifa_full_with_clusters.csv", index=False)
 
 # Export hidden gems file
 hidden_gems.to_csv("hidden_gems_clean.csv", index=False)
+
+
+
 
 
